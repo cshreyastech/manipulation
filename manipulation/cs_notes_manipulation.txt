@@ -1,0 +1,18 @@
+Drake doxygen
+https://drake.mit.edu/doxygen_cxx/classdrake_1_1examples_1_1manipulation__station_1_1_manipulation_station_hardware_interface.html
+https://drake.mit.edu/pydrake/pydrake.manipulation.html
+https://stackoverflow.com/questions/77575638/how-to-construct-a-simulation-in-the-pydrake-manipulation-framework-in-python
+
+http://localhost:8888/notebooks/book/robot/inspector.ipynb
+http://localhost:8888/notebooks/book/robot/simulation.ipynb
+http://localhost:8888/notebooks/book/intro/intro.ipynb
+http://localhost:8888/notebooks/book/robot/bimanual.ipynb
+http://localhost:8888/notebooks/book/robot/iiwa_with_allegro.ipynb
+
+2.7 Exercise
+Exercise 2.1 (Role of Reflected Inertia)
+http://localhost:8888/notebooks/book/robot/exercises/01_reflected_inertia.ipynb
+Exercise 2.2 (Input and Output Ports on the Manipulation Station)
+http://localhost:8888/notebooks/book/robot/exercises/02_hardware_station_io.ipynb
+Exercise 2.3 (Direct Joint Teleop in Drake)
+http://localhost:8888/notebooks/book/robot/exercises/03_direct_joint_control.ipynb
