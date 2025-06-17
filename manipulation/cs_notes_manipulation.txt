@@ -2,7 +2,23 @@ Drake doxygen
 https://drake.mit.edu/doxygen_cxx/classdrake_1_1examples_1_1manipulation__station_1_1_manipulation_station_hardware_interface.html
 https://drake.mit.edu/pydrake/pydrake.manipulation.html
 https://stackoverflow.com/questions/77575638/how-to-construct-a-simulation-in-the-pydrake-manipulation-framework-in-python
+https://drake.mit.edu/doxygen_cxx/group__multibody__notation.html
+https://drake.mit.edu/doxygen_cxx/group__multibody__spatial__pose.html
+https://drake.mit.edu/doxygen_cxx/classdrake_1_1math_1_1_rigid_transform.html
+https://drake.mit.edu/doxygen_cxx/namespacedrake_1_1trajectories.html
+https://en.wikipedia.org/wiki/Spline_(mathematics)
+https://en.wikipedia.org/wiki/First-order_hold
+https://drake.mit.edu/doxygen_cxx/classdrake_1_1trajectories_1_1_piecewise_polynomial.html
+https://drake.mit.edu/doxygen_cxx/classdrake_1_1trajectories_1_1_piecewise_quaternion_slerp.html
+https://drake.mit.edu/doxygen_cxx/classdrake_1_1trajectories_1_1_piecewise_pose.html
+https://eater.net/quaternions
+../drake/tutorials/dynamical_systems.ipynb
 
+
+
+
+
+######################################################################################
 http://localhost:8888/notebooks/book/robot/inspector.ipynb
 http://localhost:8888/notebooks/book/robot/simulation.ipynb
 http://localhost:8888/notebooks/book/intro/intro.ipynb
@@ -16,3 +32,31 @@ Exercise 2.2 (Input and Output Ports on the Manipulation Station)
 http://localhost:8888/notebooks/book/robot/exercises/02_hardware_station_io.ipynb
 Exercise 2.3 (Direct Joint Teleop in Drake)
 http://localhost:8888/notebooks/book/robot/exercises/03_direct_joint_control.ipynb
+######################################################################################
+Chapter 3:
+http://localhost:8888/notebooks/book/pick/kinematic_tree.ipynb
+http://localhost:8888/notebooks/book/pick/forward_kinematics.ipynb
+https://drake.mit.edu/doxygen_cxx/group__multibody__spatial__vectors.html
+linear map: https://github.com/RobotLocomotion/drake/blob/d1a1d14b323c8a4a481a8d11fc8e9c527d63bf20/multibody/tree/rpy_ball_mobilizer.cc#L223
+https://math.stackexchange.com/questions/4534687/axis-angle-representation-of-angular-velocity
+http://localhost:8888/notebooks/book/pick/qdot_vs_v.ipynb
+http://localhost:8888/notebooks/book/pick/jacobian.ipynb
+http://localhost:8888/notebooks/book/pick/grasp.ipynb#
+http://localhost:8888/notebooks/book/pick/pseudoinverse.ipynb
+http://localhost:8888/notebooks/book/pick/pick.ipynb
+http://localhost:8888/notebooks/book/pick/qp_diff_ik.ipynb
+
+3.4 Exercise: http://localhost:8888/edit/book/figures/scaling_spatial_velocity.py
+3.5 Exercise: http://localhost:8888/notebooks/book/pick/exercises/05_planar_manipulator.ipynb
+3.7 Exercise: http://localhost:8888/notebooks/book/pick/exercises/07_rigid_transforms.ipynb
+3.8 Exercise: http://localhost:8888/notebooks/book/pick/exercises/08_robot_painter.ipynb
+3.9 Exercise: http://localhost:8888/notebooks/book/pick/exercises/09_intro_to_qp.ipynb - to be solved
+Authoring Leaf Systems: ./drake/tutorials/authoring_leaf_systems.ipynb
+Overview of Quadratic Programming (QP): https://www.youtube.com/watch?v=GZb9647X8sg
+3.10 Exercise: http://localhost:8888/notebooks/book/pick/exercises/10_differential_ik_optimization.ipynb#
+#######################################################################################
+Chapter 4:
+http://localhost:8888/notebooks/book/pose/camera_sim.ipynb
+https://www.geogebra.org/3d/pn628maw
+http://localhost:8888/notebooks/book/pose/icp.ipynb
+http://localhost:8888/notebooks/book/pose/exercises/bunny_icp.ipynb

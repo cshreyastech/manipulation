@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "Test Simple QP problem",
+            "score": 0.0,
+            "max_score": 4,
+            "status": "failed",
+            "output": "Test Failed: np.float64(0.19151922655700762) not less than or equal to 1e-06 : The answer to the QP is not correct.\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 0.0
+}
