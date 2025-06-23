@@ -59,4 +59,31 @@ Chapter 4:
 http://localhost:8888/notebooks/book/pose/camera_sim.ipynb
 https://www.geogebra.org/3d/pn628maw
 http://localhost:8888/notebooks/book/pose/icp.ipynb
+Exercise 4.6 (Bunny ICP)
 http://localhost:8888/notebooks/book/pose/exercises/bunny_icp.ipynb
+
+Exercise 4.7(RANSAC)
+http://localhost:8888/notebooks/book/pose/exercises/ransac.ipynb
+
+Exercise: 4.9 (Pose Estimation)
+http://localhost:8888/notebooks/book/pose/exercises/pose_estimation_icp.ipynb
+#######################################################################################
+Chapter 5:
+http://localhost:8888/notebooks/book/clutter/falling_things.ipynb
+https://drake.mit.edu/doxygen_cxx/group__multibody__spatial__vectors.html
+http://localhost:8888/notebooks/book/robot/inspector.ipynb
+http://localhost:8888/notebooks/book/clutter/contact_inspector.ipynb
+http://localhost:8888/notebooks/book/clutter/contact_wrench.ipynb
+http://localhost:8888/notebooks/book/clutter/point_cloud_processing.ipynb
+http://localhost:8888/notebooks/book/clutter/normal_estimation.ipynb#
+http://localhost:8888/notebooks/book/clutter/grasp_selection.ipynb
+Example 5.14: http://localhost:8888/notebooks/book/clutter/clutter_clearing.ipynb
+
+Exercises 5.1 (Assessing static equilibrium): 
+http://localhost:8888/notebooks/book/clutter/exercises/static_equilibrium.ipynb
+
+Exercise 5.2 (Normal Estimation from Depth)
+http://localhost:8888/notebooks/book/clutter/exercises/normal_estimation_depth.ipynb
+
+Exercise 5.3 (Analytic Antipodal Grasping)
+http://localhost:8888/notebooks/book/clutter/exercises/analytic_antipodal_grasps.ipynb

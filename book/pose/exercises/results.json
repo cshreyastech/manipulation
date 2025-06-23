@@ -1,19 +1,13 @@
 {
     "tests": [
         {
-            "name": "Test icp implementation",
-            "score": 3,
-            "max_score": 3,
-            "status": "passed"
-        },
-        {
-            "name": "Test least square transform",
-            "score": 3,
-            "max_score": 3,
+            "name": "Test filtered pointcloud",
+            "score": 4,
+            "max_score": 4,
             "status": "passed"
         }
     ],
     "leaderboard": [],
-    "execution_time": "0.49",
-    "score": 6
+    "execution_time": "0.00",
+    "score": 4
 }

@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "name": "Test find_antipodal_pts",
+            "score": 0.0,
+            "max_score": 4,
+            "status": "failed",
+            "output": "Test Failed: 'Timed Out'\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "20.00",
+    "score": 0.0
+}
